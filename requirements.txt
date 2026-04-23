@@ -1,6 +1,8 @@
-streamlit
+streamlit==1.39.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+xgboost
 plotly
-pandas
-numpy
-scikit-learn
 joblib
+pillow
